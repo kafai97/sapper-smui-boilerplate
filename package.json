@@ -37,7 +37,7 @@
     "rollup-plugin-postcss": "^2.0.3",
     "rollup-plugin-svelte": "^5.0.1",
     "rollup-plugin-terser": "^5.1.2",
-    "sapper": "^0.27.0",
+    "sapper": "^0.27.11",
     "svelte": "^3.16.0",
     "svelte-material-ui": "^1.0.0-beta.15"
   }
